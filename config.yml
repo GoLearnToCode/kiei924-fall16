@@ -8,5 +8,10 @@ question_board: false
 # Then indent and provide label, url, and fa icon (optional)
 # The default icon is fa-cloud.
 # sidebar:
-
+sidebar:
+  
+  -
+    label: Syllabus
+    url: 'https://www4.kellogg.northwestern.edu/syllabus/syllabus_files/KIEI-924-5-80_Fall2016.pdf'
+    icon: fa-list-ol
   

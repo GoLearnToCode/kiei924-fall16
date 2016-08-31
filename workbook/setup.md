@@ -2,96 +2,47 @@
 
 You'll have to install three pieces of software in order to get ready for KIEI-924 this quarter.
 
-- A **Web Browser** - We'll be using Google Chrome. I like Chrome for its fast and consistent performance, and its built-in Developer Tools (we'll be using these a lot).
-- A **Code Editor** - The code editor is a piece of software that is used to create and edit text files. It's like Microsoft Word, but for code files instead of word processing documents. In this class, we'll use Sublime Text.
-- The **Github App** - **Git** is a technology that professional developers use to store their code and share it with others. **Github** is a company that provides a popular hosted Git service. They provide an app for easy access to their service.
+1. A **Web Browser**.  We'll be using Google Chrome. I like Chrome for its fast and consistent performance, and its built-in Developer Tools (we'll be using these a lot).
+2. A **Code Editor**. The code editor is a piece of software that is used to create and edit software code. Software code files are actually just "plain text" files.  A code editor is like Microsoft Word, but intended to edit code files instead of word processing documents. In this class, we'll use a free editor called Atom.
+3. The **Github App**. __Git__ is a technology that professional developers use to store their code and share it with others. **GitHub** is a company that provides a popular hosted Git service.  If you are familiar with Dropbox, you can think of the GitHub App as "Dropbox for code files."
 
-There's a also a short video to watch – it's recorded for Mac, but good for both Mac and Windows users to watch, just for a high-level overview.
+---
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/xTICpdoNXmo" frameborder="0" allowfullscreen></iframe>
+**WARNING for Windows Users**
 
-Then, follow the below instructions for your platform. 
-
-# For Mac Users
-
-Step 0! Make sure that your Mac is running Mac OS X 10.9 (Mavericks) or later. **If it isn't, please upgrade before continuing.**
-
-### Download and Install Sublime Text
-
-[Click here to get Sublime Text](http://www.sublimetext.com/3). This is called the "Sublime 3 Beta", but it's been out for a long time and is very stable. Download the installer for OS X and run it.
-
-It's free to try out, but after 30 days you'll start to get nagged to pay for it (which I'd recommend you do – it's $70).
-
-Also don't miss the "unofficial" but excellent [documentation](http://docs.sublimetext.info/en/latest/index.html).
-
-## Github
-
-Sign up for a free Github account at [the Github website](https://github.com/). You'll be using your Github account for lots of things in class – including turning in your homework and tracking your attendance in class – so keep your account information handy at all times.
-
-Once your Github account is created, you'll want to **enter your Kellogg email address into your public profile**. Do this by going to your settings (the little "cog" icon in the upper right) and entering it in the "Profile" section.
-
-### Download and Install the Github App
-
-https://mac.github.com/
-
-Once installed, run the Github app. You'll be asked to enter the Github username and password you've just created, along with your name and email address. Once you've done this, you should be at an empty "Dashboard view", and you're all set.
-
-## Create a place to store your code and download the project for the first class
-
-We'll need a place to store all the code we'll be writing this quarter.
-
-Create a folder called *code* in your home directory. (What's the home directory? In the *Finder*, it's accessible via the sidebar – it's the one with the "house" icon and is marked with the username you've used to log-in to your computer. You can also get there from the Finder menu, via Go -> Home).
-
-Finally, download the following and unzip it into your code folder. **Rename the folder (which will probably be called "profile-master") to "profile".** When you're done, you should have a folder called "profile" in your *code* directory.
-
-https://github.com/kiei924-winter16/profile/archive/master.zip
-
-    Home Directory
-    -- profile
-       -- index.html
-       -- linedpaper.png
-       -- style.css
-       -- walter.jpg
-
-# For Windows Users
- 
-Step 0! Make sure that your Windows PC is running Windows 7 or later. **If it isn't, please upgrade before continuing.**
- 
-### Download and Install Sublime Text
- 
-[Click here to get Sublime Text](http://www.sublimetext.com/3). This is called the "Sublime 3 Beta", but it's been out for a long time and is very stable. Download the installer for Windows and run it.
- 
-It's free to try out, but after 30 days you'll start to get nagged to pay for it (which I'd recommend you do – it's $70).
- 
-Also don't miss the "unofficial" but excellent [documentation](http://docs.sublimetext.info/en/latest/index.html).
- 
-## Github
-
-Sign up for a free Github account at [the Github website](https://github.com/). You'll be using your Github account for lots of things in class – including turning in your homework and tracking your attendance in class – so keep your account information handy at all times.
-
-Once your Github account is created, you'll want to **enter your Kellogg email address into your public profile**. Do this by going to your settings (the little "cog" icon in the upper right) and entering it in the "Profile" section.
- 
-### Download and Install the Github App
- 
-https://windows.github.com/
- 
-Once installed, run the Github app. You'll be asked to enter the Github username and password you've just created, along with your name and email address. Once you've done this, you should be at an empty "Dashboard view", and you're all set.
- 
-## Create a place to store your code and download the project for the first class
- 
-We'll need a place to store all the code we'll be writing this quarter.
- 
-Create a folder called *code* in the root of your C:\ drive.
- 
-Finally, download the following and unzip it into your code folder. **Rename the folder (which will probably be called "profile-master") to "profile".** When you're done, you should have a folder called "profile" in your *code* directory.
- 
-https://github.com/kiei924-winter16/profile/archive/master.zip
-
-    c:\code
-    -- profile
-       -- index.html
-       -- linedpaper.png
-       -- style.css
-       -- walter.jpg
+Make sure that your computer is running Windows 7 or newer. **If it isn't, you must upgrade before continuing.**
 
 
+**WARNING for Mac Users**
+
+Make sure that your Mac is running Mac OS X 10.9 (Mavericks) or newer. **If it isn't, you must upgrade before continuing.**
+
+---
+
+### Step 1. Download and Install Google Chrome
+
+Hopefully, you're already using Chrome as your everyday browser.  If not, go get it: https://www.google.com/chrome
+
+----
+
+### Step 2. Download and Install Atom
+
+[Click here to get Atom from atom.io](http://atom.io). Download the installer and run it.  Start the Atom program at least once on your laptop just to make sure it works.
+
+Full documentation is [here](https://atom.io/docs) should you ever need it.
+
+---
+
+### Step 3. GitHub.com and the GitHub Desktop App
+
+Sign up for a free GitHub account at [the GitHub website](https://github.com/). You'll be using your GitHub account for lots of things in class – including turning in your homework and tracking your attendance in class – so keep your account information handy at all times.
+
+**IMPORTANT!!!** YOU MUST **enter your university email address into your public profile**. Do this by going to your profile settings and entering it in the "Public Email" section. Ensure that it is not set to "Don't show my email address", but rather your university email address. This is the only way I'm able to know which Github account is yours and to **grade your assignments!**
+
+Finally, download the free GitHub app at https://desktop.github.com/ and run the installer.  Run the app and add your GitHub.com credentials so that it knows about your GitHub account.  
+
+Complete instructions can be found here (be sure to select either Mac/Windows as needed): https://help.github.com/desktop/guides/getting-started/
+
+---
+
+That's it!  You're ready.  See you in class!
