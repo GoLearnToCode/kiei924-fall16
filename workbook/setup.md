@@ -21,7 +21,7 @@ Make sure that your Mac is running Mac OS X 10.9 (Mavericks) or newer. **If it i
 
 ### Step 1. Download and Install Google Chrome
 
-Hopefully, you're already using Chrome as your everyday browser.  If not, go get it: https://www.google.com/chrome
+Maybe you're already using Chrome as your everyday browser.  If not, go get it: https://www.google.com/chrome
 
 ----
 
