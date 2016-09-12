@@ -45,4 +45,25 @@ Complete instructions can be found here (be sure to select either Mac/Windows as
 
 ---
 
+### Step 4. Create a place to store your code and download the project for the first class
+
+We'll need a place to store all the code we'll be writing this quarter.
+
+Mac users: Create a folder called *code* in your home directory. (What's the home directory? In the *Finder*, it's accessible via the sidebar – it's the one with the "house" icon and is marked with the username you've used to log-in to your computer. You can also get there from the Finder menu, via Go -> Home).
+
+Windows users: Create a folder called *code* in the root of your C:\ drive.
+
+Finally, download the following and unzip it into your code folder. **Rename the folder (which will be called "profile-master") to "profile".** When you're done, you should have a folder called "profile" in your *code* directory.
+
+https://github.com/kiei924-fall16/profile/archive/master.zip
+
+    Your Code Directory
+    -- profile
+       -- index.html
+       -- linedpaper.png
+       -- style.css
+       -- walter.jpg
+       
+---
+
 That's it!  You're ready.  See you in class!
