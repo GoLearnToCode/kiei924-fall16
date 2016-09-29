@@ -48,7 +48,7 @@ You should:
   - Label
   - Alert
   - Etc.
-- *Use your own CSS in addition to Bootstrap, in order to customize the look of your site. Override at least 3 of Bootstrap's style rules.*
+- **Use your own CSS in addition to Bootstrap, in order to customize the look of your site. Override at least 3 of Bootstrap's style rules.**
 - Use Font Awesome and/or Google Fonts to add custom typography/icongraphy to your site.
 
 Commit and sync your changes to your Github account no later than 11:59pm on Thursday.
