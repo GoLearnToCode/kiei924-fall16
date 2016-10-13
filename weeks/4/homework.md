@@ -24,7 +24,6 @@ Minimum directory structure for your submission:
     * Shopping list
     * Recipes or restaurants to try
     * Anything else! 
-    
 * "Poker" JavaScript app (10 points)
   * A jQuery-based application that simulates the dealing of five random playing cards when a button is pressed (e.g. "Deal")
   * Use https://github.com/kiei924-fall16/poker as a starting point
