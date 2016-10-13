@@ -30,6 +30,6 @@ Minimum directory structure for your submission:
   * Use https://github.com/kiei924-fall16/poker as a starting point
   * The cards dealt must be unique, just like Vegas
   * Card images can be found using the following convention: http://golearntocode.com/images/cards/5_of_diamonds.png
-  * You can use Boostrap's *img-responsive* helper class to make the cards not so huge :)
+  * You can use Bootstrap's *img-responsive* helper class to make the cards not so huge :)
 
 Commit and sync your code to your *week4* GitHub repository by 11:59pm on Monday, December 7.
