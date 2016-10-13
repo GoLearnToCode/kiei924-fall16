@@ -28,6 +28,7 @@ Minimum directory structure for your submission:
 * "Poker" JavaScript app (10 points)
   * A jQuery-based application that simulates the dealing of five random playing cards when a button is pressed (e.g. "Deal")
   * Use https://github.com/kiei924-fall16/poker as a starting point
+  * The cards dealt must be unique, just like Vegas
   * Card images can be found using the following convention: http://golearntocode.com/images/cards/5_of_diamonds.png
   * You can use Boostrap's *img-responsive* helper class to make the cards not so huge :)
 
