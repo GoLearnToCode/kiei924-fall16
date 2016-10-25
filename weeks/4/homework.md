@@ -32,4 +32,4 @@ Minimum directory structure for your submission:
   * Card images can be found using the following convention: http://golearntocode.com/images/cards/5_of_diamonds.png
   * You can use Bootstrap's *img-responsive* helper class to make the cards not so huge :)
 
-Commit and sync your code to your *week4* GitHub repository by 11:59pm on Monday, December 7.
+Commit and sync your code to your *week4* GitHub repository by 11:59pm on Thursday.
