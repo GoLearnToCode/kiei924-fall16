@@ -1,0 +1,5 @@
+- React catch-up and practice
+- Understanding state
+- Manipulating state
+- Event handling
+- All the Things Live In App
