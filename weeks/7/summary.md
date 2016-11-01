@@ -1,0 +1,3 @@
+- React homework review and practice
+- Using real-time databases to storage data and scale applications
+- Mobile app development fundamentals
