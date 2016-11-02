@@ -4,7 +4,7 @@
 
 **Core Requirements (30 points total)**
 
-The team that you hired to build your startup, Buyflix, just secured funding on their world-changing Uber for cats idea, and walked out, leaving you high and dry. You’ve got three weeks to present your product to investors and you can’t find a new developer. You're now stuck having to finish it yourself. These features are still left to do:
+The team you hired to build your startup, Buyflix, just secured funding on their own world-changing Uber for cats idea, and walked out, leaving you high and dry. You’ve got three weeks to present your product to investors and you can’t find a new developer. You're now stuck having to finish it yourself. These features are still left to do:
 
 - (7 points) Ability to sort the movies (alphabetically and by release date) and have the sortbar reflect the current sort order
 - (7 points) Data visualization: either a chart that shows number of releases by month or a Google Map to show "where to watch" (i.e. movie theaters) 
