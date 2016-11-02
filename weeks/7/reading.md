@@ -12,7 +12,7 @@ If you don't already have one, set-up an account at firebase.google.com.
 ## Firebase Database Setup
 
 1. In the Firebase console, under "Database", select the tab that says "Rules"
-2. Change the part that reads `auth != null` to `true`. The finished rules should look like this:
+2. Change the part that reads `auth != null` to `true` and hit "Publish". The finished rules should look like this:
 
 ```
 {
@@ -22,5 +22,3 @@ If you don't already have one, set-up an account at firebase.google.com.
   }
 }
 ```
-
-3. Hit "Publish"
