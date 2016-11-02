@@ -6,7 +6,7 @@ If you don't already have one, set-up an account at firebase.google.com.
 
 1. Create a new project.
 2. Build the production code for your application from the command-line, using `npm run build`.
-3. Run `firebase init` - when prompted for a location for the public directory, type `build`. Accept all other defaults.
+3. Run `firebase init` - unselect "Database" and, when prompted for a location for the public directory, type `build`. Accept all other defaults.
 4. `firebase deploy`
 
 ## Firebase Database Setup
