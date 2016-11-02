@@ -1,3 +1,3 @@
 - React homework review and practice
-- Using real-time databases to storage data and scale applications
+- Using Firebase to build a basic back-end
 - Mobile app development fundamentals
