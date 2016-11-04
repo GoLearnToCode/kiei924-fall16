@@ -1,6 +1,10 @@
 # Getting Started With Firebase
 
-If you don't already have one, set-up an account at firebase.google.com.
+If you don't already have one, set-up an account at firebase.google.com and install the Firebase command-line tools using:
+
+```
+npm install -g firebase-tools
+```
 
 ## Firebase Hosting Setup
 
