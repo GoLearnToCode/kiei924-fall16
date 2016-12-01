@@ -1,0 +1,3 @@
+- Develop a deeper understanding of APIs, how they work and how they are being used to drive new businesses
+- The basics of the Internet of Things (IoT) landscape and practical examples
+- Course wrap-up
